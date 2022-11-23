@@ -1,2 +1,2 @@
-This repo contains a group project
-#Write your own printf function.
+This is a test project. Nothing special about it
+
