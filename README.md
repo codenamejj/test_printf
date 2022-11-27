@@ -1,2 +1,2 @@
-This is a test project. Nothing special about it
+This is a collaboration test project. Nothing special about it.
 
