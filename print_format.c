@@ -11,10 +11,9 @@
 int _printf(const char *format, ...)
 {
 	va_list pr;
-	char ch = 'Z';
 
 	va_start(pr, format);
-	printf("%c\n%s\n", ch, "Hello");
+	printf("%c\n%s\n", 'z', "Hello");
 	va_end(pr);
 
 	return (0);
